@@ -69,7 +69,18 @@
     "prompt": "What is the remainder when $2^{202} + 202$ is divided by $2^{101}+2^{51}+1$?\n\n(A) 100  (B) 101  (C) 200  (D) 201  (E) 202",
     "expected": "201 (Completing the square and factoring, we find that 2^{202} + 202 = (2^{101} - 2^{51} + 1)(2^{101} + 2^{51} + 1) + 201, so the remainder is 201.)"
   }
-  
+  {
+    "id": "q15",
+    "prompt": "Let $S$ be a subset of $\\{1, 2, 3, \\dots, 2024\\}$ such that the following two conditions hold:\n\nIf $x$ and $y$ are distinct elements of $S$, then $|x-y| > 2.$\nIf $x$ and $y$ are distinct odd elements of $S$, then $|x-y| > 6.$\nWhat is the maximum possible number of elements in $S$?\n\n(A) 436  (B) 506  (C) 608  (D) 654  (E) 675",
+    "expected": "608 (By listing the smallest possible elements of subset S in ascending order, we see that S starts with {1, 4, 8, 11, 14, 18, 21, 24, 28, 31, ...}. The elements loop every 10 numbers, giving 202 full loops, each contributing 3 elements, totaling 606. The remainder 4 allows 2 additional elements (2021 and 2024), so the maximum number of elements is 606 + 2 = 608.)"
+  }
+  {
+    "id": "q16",
+    "prompt": "What is the least value of $n$ such that $n!$ is a multiple of $2024$?\n\n(A) 11  (B) 21  (C) 22  (D) 23  (E) 253",
+    "expected": "23 (The prime factorization of 2024 is 2^3 * 11 * 23. To ensure n! is divisible by 2024, n! must include all these prime factors. The smallest n where this happens is 23, since 23! contains 2^3, 11, and 23 as factors.)"
+  }
+
+
 
 
 
