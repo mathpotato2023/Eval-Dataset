@@ -1,0 +1,78 @@
+[
+  {
+    "id": "q1",
+    "prompt": "Business is a little slow at Lou's Fine Shoes, so Lou decides to have a sale. On Friday, Lou increases all of Thursday's prices by 10 percent. Over the weekend, Lou advertises the sale: 'Ten percent off the listed price. Sale starts Monday.' How much does a pair of shoes cost on Monday that cost $40 on Thursday?\n\n(A) 36  (B) 39.60  (C) 40  (D) 40.40  (E) 44",
+    "expected": "39.60"
+  }
+  {
+    "id": "q2",
+    "prompt": "A burger at Ricky C's weighs 120 grams, of which 30 grams are filler. What percent of the burger is not filler?\n\n(A) 60%   (B) 65%   (C) 70%   (D) 75%   (E) 90%",
+    "expected": "75%"
+  }
+  {
+    "id": "q3",
+    "prompt": "Margie's car can go $32$ miles on a gallon of gas, and gas currently costs $4$ per gallon. How many miles can Margie drive on $20 worth of gas?",
+    "expected": "160"
+  }
+  {
+    "id": "q4",
+    "prompt": "One day the Beverage Barn sold 252 cans of soda to 100 customers, and every customer bought at least one can of soda. What is the maximum possible median number of cans of soda bought per customer on that day?\n\n(A) 2.5  (B) 3.0  (C) 3.5  (D) 4.0  (E) 4.5",
+    "expected": "3.5"
+  }
+  {
+    "id": "q5",
+    "prompt": "√164 is\n(A) 42  (B) less than 10  (C) between 10 and 11  (D) between 11 and 12  (E) between 12 and 13",
+    "expected": "between 12 and 13"
+  }
+  {
+    "id": "q6",
+    "prompt": "Maria buys computer disks at a price of 4 for $5 and sells them at a price of 3 for $5. How many computer disks must she sell in order to make a profit of $100?\n\n(A) 100  (B) 120  (C) 200  (D) 240  (E) 1200",
+    "expected": "240"
+  }
+  {
+    "id": "q7",
+    "prompt": "If n is an even positive integer, the double factorial notation n!! represents the product of all the even integers from 2 to n. For example, 8!! = 2 · 4 · 6 · 8. What is the units digit of the following sum?\n\n2!! + 4!! + 6!! + ... + 2018!! + 2020!! + 2022!!\n\n(A) 0  (B) 2  (C) 4  (D) 6  (E) 8",
+    "expected": "2"
+  }
+  {
+    "id": "q8",
+    "prompt": "A \\(\\triangle\\) or a \\(\\bigcirc\\) is placed in each of the nine squares in a 3-by-3 grid. How many configurations will have three \\(\\triangle\\)s in a line and three \\(\\bigcirc\\)s in a line?",
+    "expected": "84"
+  }
+  {
+    "id": "q9",
+    "prompt": "How many pairs of parallel edges does a cube have?\n\n(A) 6 (B) 12 (C) 18 (D) 24 (E) 36",
+    "expected": "18"
+  }
+  {
+    "id": "q10",
+    "prompt": "Jack and Jill are going swimming at a pool that is one mile from their house. They leave home simultaneously. Jill rides her bicycle to the pool at a constant speed of $10$ miles per hour. Jack walks to the pool at a constant speed of $4$ miles per hour. How many minutes before Jack does Jill arrive?\n\n(A) 5  (B) 6  (C) 8  (D) 9  (E) 10",
+    "expected": "9"
+  }
+  {
+    "id": "q11",
+    "prompt": "In $2005$ Tycoon Tammy invested $100$ dollars for two years. During the first year her investment suffered a $15\\%$ loss, but during the second year the remaining investment showed a $20\\%$ gain. Over the two-year period, what was the change in Tammy's investment?\n\n(A) 5% loss  (B) 2% loss  (C) 1% gain  (D) 2% gain  (E) 5% gain",
+    "expected": "2% gain"
+  }
+  {
+    "id": "q12",
+    "prompt": "In Theresa's first $8$ basketball games, she scored $7, 4, 3, 6, 8, 3, 1$ and $5$ points. In her ninth game, she scored fewer than $10$ points and her points-per-game average for the nine games was an integer. Similarly in her tenth game, she scored fewer than $10$ points and her points-per-game average for the $10$ games was also an integer. What is the product of the number of points she scored in the ninth and tenth games?\n\n(A) 35  (B) 40  (C) 48  (D) 56  (E) 72",
+    "expected": "40"
+  }
+  {
+    "id": "q13",
+    "prompt": "Ms. Carr asks her students to read any $5$ of the $10$ books on a reading list. Harold randomly selects $5$ books from this list, and Betty does the same. What is the probability that there are exactly $2$ books that they both select?\n\n(A) 1/8  (B) 5/36  (C) 14/45  (D) 25/63  (E) 1/2",
+    "expected": "25/63"
+  }
+  {
+    "id": "q14",
+    "prompt": "What is the remainder when $2^{202} + 202$ is divided by $2^{101}+2^{51}+1$?\n\n(A) 100  (B) 101  (C) 200  (D) 201  (E) 202",
+    "expected": "201 (Completing the square and factoring, we find that 2^{202} + 202 = (2^{101} - 2^{51} + 1)(2^{101} + 2^{51} + 1) + 201, so the remainder is 201.)"
+  }
+  
+
+
+
+
+  
+
